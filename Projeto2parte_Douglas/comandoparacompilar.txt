@@ -1,0 +1,1 @@
+g++ main.cpp FiguraGeometrica.cpp Sculptor.cpp PutVoxel.cpp CutVoxel.cpp PutBox.cpp CutBox.cpp PutSphere.cpp CutSphere.cpp PutEllipsoid.cpp CutEllipsoid.cpp Leitor.cpp -o programa
