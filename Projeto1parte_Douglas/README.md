@@ -53,7 +53,7 @@ struct Voxel {
 ## 📂 Estrutura dos arquivos
 
 ```bash
-📁 projeto1parte_Douglas
+📁 Projeto1parte_Douglas
  ├── Sculptor.h
  ├── Sculptor.cpp
  ├── main.cpp
